@@ -1,3 +1,13 @@
-Namira Console
+# Namira Console
 
-remote desktop manager client built in Python 
+Namira console is a python based remote desktop manager.
+
+## Installation
+
+
+
+## Usage
+
+## Contributing
+
+## License
